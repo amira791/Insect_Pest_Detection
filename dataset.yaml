@@ -1,0 +1,12 @@
+path: C:/Users/VECTUS/Insect_Pest_Detection/data
+train: train/images
+val: val/images
+
+names:
+  0: aphid
+  1: armyworm larvae
+  2: armyworm moth
+  3: sawfly
+  4: beetle
+  5: mite
+  6: grasshopper
